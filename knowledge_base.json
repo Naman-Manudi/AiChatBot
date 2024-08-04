@@ -1,0 +1,36 @@
+{
+        "questions": [
+                {
+                        "question": "Hello",
+                        "answer": "Hi"
+                },
+                {
+                        "question": "What is Your name",
+                        "answer": "My name is Chatbot"
+                },
+                {
+                        "question": "Do you know About Graphic Era",
+                        "answer": " Graphic Era University is renowned for its focus on engineering, management, and allied disciplines. It has a strong reputation for academic excellence and industry-oriented programs."
+                },
+                {
+                        "question": "Can you tell me about the campus facilities?",
+                        "answer": "Graphic Era University boasts state-of-the-art facilities, including modern classrooms, well-equipped labs, a library, sports facilities, and hostels. The campus is designed to provide a conducive environment for learning and growth"
+                },
+                {
+                        "question": "Tell me about the engineering courses offered at Graphic Era",
+                        "answer": "Graphic Era University offers a range of engineering programs, including Computer Science, Mechanical, Civil, Electrical, and more. Each program is designed to provide a comprehensive understanding of the respective field."
+                },
+                {
+                        "question": "tell me about yourself?",
+                        "answer": "I am Naman"
+                },
+                {
+                        "question":"Hi Naman How are you?",
+                        "answer": "Yes I am Fine"
+                },
+                {
+                        "question": "Cricket",
+                        "answer": "it is a sport"
+                }
+        ]
+}
